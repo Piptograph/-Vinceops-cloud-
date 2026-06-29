@@ -3,6 +3,9 @@
 > Production-grade AWS cloud infrastructure for a fintech startup -
 > designed, built, and documented by a sole cloud security engineer.
 
+## The scenario
+VinceOps is a fintech startup needing secure cloud infrastructure from scratch.  
+
 ## The engineering challenge
 VinceOps required a secure, scalable, fully automated cloud 
 infrastructure built from zero. Every architectural decision 
@@ -23,4 +26,4 @@ Prometheus · Grafana · Trivy · OWASP ZAP · Linux
 
 ## Engineer
 Vince Ifeanyi — Cloud Security + DevOps Engineer
-[www.linkedin.com/in/vinceops]
+[Linkedln](www.linkedin.com/in/vinceops)
