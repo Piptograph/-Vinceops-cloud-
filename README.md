@@ -25,5 +25,5 @@ AWS · Terraform · Docker · Kubernetes · GitHub Actions
 Prometheus · Grafana · Trivy · OWASP ZAP · Linux
 
 ## Engineer
-Vince Ifeanyi — Cloud Security + DevOps Engineer
+Vince Ifeanyi - Cloud Security + DevOps Engineer
 [LinkedIn](https://www.linkedin.com/in/vinceops)
