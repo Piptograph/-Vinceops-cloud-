@@ -1,3 +1,5 @@
-Sets up the five-phase project scaffold for a production-grade
-AWS cloud infrastructure build. Documentation will be added
-month by month as each infrastructure layer is completed.
+feat: month 5 - Prometheus monitoring, Grafana, OWASP ZAP, capstone complete
+
+Adds full observability stack with automated Slack and email alerting.
+OWASP ZAP DAST integrated into deployment pipeline. Main README
+rewritten as complete five-month infrastructure portfolio document.
